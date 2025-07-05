@@ -10,6 +10,7 @@
 # yRankup (upar de rank)
 # ySpawners (matar mobs)
 # yEventos (ganhar eventos)
+# Você pode criar novos tipos para usar em API própria. Defina um nome qualquer abaixo
 event-type: 'yMinasPackets'
 
 # Sistemas gerais
