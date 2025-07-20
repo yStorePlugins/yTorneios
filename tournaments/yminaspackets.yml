@@ -25,6 +25,10 @@ general:
   announces: [ 50, 40, 30, 20, 10 ]
   # chance,recompensa
   rewards: [ '100,reward1' ]
+  # Comandos que serão executados pelo console ao iniciar o torneio
+  start-commands: []
+  # Comandos que serão executados pelo console ao acabar/parar o torneio
+  stop-commands: []
 
 # Sistema de comprar a ativação do torneio
 buy:
